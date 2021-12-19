@@ -14,4 +14,4 @@ https://youtu.be/CFJt3o8BC4o
 
 
 Also follow me on twitter please https://twitter.com/jamespistell
-If you don't I will kill myself
+if you dont i will kill myself
