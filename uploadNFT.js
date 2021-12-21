@@ -25,7 +25,7 @@ function compareFileNames(f1, f2) {
 // Now since this takes a callback add the resolve and reject to it
 const getFiles = () => {
   return new Promise((resolve, reject) => {
-    fs.readdir('./racecars/', (err, files) => {
+    fs.readdir('./animals/', (err, files) => {
       if (err) {
         reject(err);
       }
@@ -47,11 +47,11 @@ const modifyFilesForUpload = async () => {
       return;
     }
     if (compareFileNames(element1, element2)) {
-      await imageToBase64('./racecars/' + element2) // path to the image
+      await imageToBase64('./animals/' + element2) // path to the image
         .then((response) => {
           filesToUpload.push({
             fileReference: element2.split('.')[0],
-            meta: fs.readFileSync('./racecars/' + element1, {
+            meta: fs.readFileSync('./animals/' + element1, {
               encoding: 'utf8',
               flag: 'r'
             }),
@@ -73,7 +73,7 @@ async function uploadMyNFT(metadata, assetNumber, base64ImageData) {
       fileFromBase64: base64ImageData,
       metadataPlaceHolder: [
         {
-          name: 'car',
+          name: 'animal',
           value: metadata.car,
         },
         {
@@ -83,10 +83,6 @@ async function uploadMyNFT(metadata, assetNumber, base64ImageData) {
         {
           name: 'helmet',
           value: metadata.helmet,
-        },
-        {
-          name: 'driverName',
-          value: metadata.driverName,
         },
         {
           name: 'sexuality',
