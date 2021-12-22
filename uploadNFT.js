@@ -74,7 +74,7 @@ async function uploadMyNFT(metadata, assetNumber, base64ImageData) {
       metadataPlaceHolder: [
         {
           name: 'animal',
-          value: metadata.car,
+          value: metadata.animal,
         },
         {
           name: 'background',
