@@ -25,7 +25,7 @@ function compareFileNames(f1, f2) {
 // Now since this takes a callback add the resolve and reject to it
 const getFiles = () => {
   return new Promise((resolve, reject) => {
-    fs.readdir('./animals/', (err, files) => {
+    fs.readdir('./sundae/', (err, files) => {
       if (err) {
         reject(err);
       }
@@ -47,11 +47,11 @@ const modifyFilesForUpload = async () => {
       return;
     }
     if (compareFileNames(element1, element2)) {
-      await imageToBase64('./animals/' + element2) // path to the image
+      await imageToBase64('./sundae/' + element2) // path to the image
         .then((response) => {
           filesToUpload.push({
             fileReference: element2.split('.')[0],
-            meta: fs.readFileSync('./animals/' + element1, {
+            meta: fs.readFileSync('./sundae/' + element1, {
               encoding: 'utf8',
               flag: 'r'
             }),
@@ -73,24 +73,20 @@ async function uploadMyNFT(metadata, assetNumber, base64ImageData) {
       fileFromBase64: base64ImageData,
       metadataPlaceHolder: [
         {
-          name: 'animal',
-          value: metadata.animal,
+          name: 'sundae',
+          value: metadata.sundae,
         },
         {
           name: 'background',
           value: metadata.background,
         },
         {
-          name: 'helmet',
-          value: metadata.helmet,
-        },
-        {
           name: 'sexuality',
           value: metadata.sexuality,
         },
         {
-          name: 'topSpeed',
-          value: metadata.topSpeed,
+          name: 'flavor',
+          value: metadata.flavor,
         },
       ],
     },
@@ -130,9 +126,9 @@ async function* asyncGenerator() {
   let i = 0; // //The asset number to start on
   yield getFiles();
   yield modifyFilesForUpload();
-  while (i < 5) {
+  while (i < 50) {
     const metadata = JSON.parse(filesToUpload[i].meta);
-    const assetNumber = filesToUpload[i].fileReference.padStart(5, '0');
+    const assetNumber = filesToUpload[i].fileReference.padStart(50, '0');
     const base64ImageData = filesToUpload[i].img;
     yield uploadMyNFT(metadata, assetNumber, base64ImageData);
     yield i++;
@@ -145,7 +141,7 @@ async function* asyncGenerator() {
 (async function () {
   // As the generator is asynchronous, we can use await inside it,
   for await (let num of asyncGenerator()) {
-    if (num === 4) {
+    if (num === 49) {
       console.log(chalk.magentaBright.bold('Finished generating images, now Axios will upload the shit. lmao...'));
       process.exitCode = 0;
     }
