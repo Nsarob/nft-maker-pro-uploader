@@ -1,21 +1,21 @@
 {
   "721": {
     "6be221e45858b912b1efb4d79d6c239f24239ef73e99945e6cc33ada": {
-      "thebigsundae57": {
-        "name": "thebigsundae57",
-        "image": "ipfs://QmZaJzoin5RwdZBZ5onEerSiCCLwUHrust7M3gHdeAoV4r",
+      "thebigsundae157": {
+        "name": "thebigsundae157",
+        "image": "ipfs://QmSnsxarRNs9JkpPuPoscfHvPf3kAD4oQAK5ZPxvuxXc46",
         "mediaType": "image/png",
-        "description": "57",
+        "description": "157",
         "files": [
           {
-            "name": "57",
+            "name": "157",
             "mediaType": "image/png",
-            "src": "ipfs://QmZaJzoin5RwdZBZ5onEerSiCCLwUHrust7M3gHdeAoV4r"
+            "src": "ipfs://QmSnsxarRNs9JkpPuPoscfHvPf3kAD4oQAK5ZPxvuxXc46"
           }
         ],
         "sundae": "apple sundae",
-  "background": "cb57",
-  "sexuality": "female",
+  "background": "b157",
+  "sexuality": "bi",
   "flavor": "apple"
       }
     },
