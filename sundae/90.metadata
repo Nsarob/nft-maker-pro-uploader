@@ -2,19 +2,19 @@
   "721": {
     "6be221e45858b912b1efb4d79d6c239f24239ef73e99945e6cc33ada": {
       "thebigsundae90": {
-        "name": "thebigsundae90",
-        "image": "ipfs://QmbitzJpPtBq2jY61irgUU9FKf7VS3vhk7NM2fFJQgBDWx",
+        "name": "thebigsundae190",
+        "image": "ipfs://QmWiCRVGoQCPDUiYvG22XgTPQm5DxQZfyLsyFdh17JBPaZ",
         "mediaType": "image/png",
-        "description": "90",
+        "description": "190",
         "files": [
           {
-            "name": "90",
+            "name": "190",
             "mediaType": "image/png",
-            "src": "ipfs://QmbitzJpPtBq2jY61irgUU9FKf7VS3vhk7NM2fFJQgBDWx"
+            "src": "ipfs://QmWiCRVGoQCPDUiYvG22XgTPQm5DxQZfyLsyFdh17JBPaZ"
           }
         ],
-        "sundae": "coldbergs",
-  "background": "bc90",
+        "sundae": "rock road",
+  "background": "bc190",
   "sexuality": "female",
   "flavor": "lemon"
       }
@@ -22,4 +22,3 @@
     "version": "1.0"
   }
 }
-
