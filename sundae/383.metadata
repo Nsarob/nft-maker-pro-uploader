@@ -1,0 +1,25 @@
+{
+  "721": {
+    "6be221e45858b912b1efb4d79d6c239f24239ef73e99945e6cc33ada": {
+      "thebigsundae383": {
+        "name": "thebigsundae383",
+        "image": "ipfs://QmQqVbCMf4wB9TdarjgYG8UwwguKBiCWAnArXuQa8BKLbq",
+        "mediaType": "image/png",
+        "description": "383",
+        "files": [
+          {
+            "name": "383",
+            "mediaType": "image/png",
+            "src": "ipfs://QmQqVbCMf4wB9TdarjgYG8UwwguKBiCWAnArXuQa8BKLbq"
+          }
+        ],
+        "sundae": "dolce & gelato",
+  "background": "bc383",
+  "sexuality": "female",
+  "flavor": "natural"
+      }
+    },
+    "version": "1.0"
+  }
+}
+
