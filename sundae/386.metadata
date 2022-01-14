@@ -1,0 +1,25 @@
+{
+  "721": {
+    "6be221e45858b912b1efb4d79d6c239f24239ef73e99945e6cc33ada": {
+      "thebigsundae386": {
+        "name": "thebigsundae386",
+        "image": "ipfs://QmfKe3YkP1j26EUvgEeRKfJmThvxv4j88VdEPUBnD73Tbp",
+        "mediaType": "image/png",
+        "description": "386",
+        "files": [
+          {
+            "name": "386",
+            "mediaType": "image/png",
+            "src": "ipfs://QmfKe3YkP1j26EUvgEeRKfJmThvxv4j88VdEPUBnD73Tbp"
+          }
+        ],
+        "sundae": "Bīngqílín",
+  "background": "bcs386",
+  "sexuality": "female",
+  "flavor": "milk"
+      }
+    },
+    "version": "1.0"
+  }
+}
+
