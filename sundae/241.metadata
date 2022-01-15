@@ -1,22 +1,22 @@
 {
   "721": {
     "6be221e45858b912b1efb4d79d6c239f24239ef73e99945e6cc33ada": {
-      "thebigsundae141": {
-        "name": "thebigsundae141",
+      "thebigsundae241": {
+        "name": "thebigsundae241",
         "image": "ipfs://QmTs5Wyjt3Yq73Kkd9Lkj9Xizxy5wXc8pSigcGeYnqfKoA",
         "mediaType": "image/png",
-        "description": "141",
+        "description": "241",
         "files": [
           {
-            "name": "141",
+            "name": "241",
             "mediaType": "image/png",
             "src": "ipfs://QmTs5Wyjt3Yq73Kkd9Lkj9Xizxy5wXc8pSigcGeYnqfKoA"
           }
         ],
-        "sundae": "REESES PIECES COOKIE DOUGH",
-  "background": "bck141",
+        "sundae": "Green Tea Red Bean Blizzard",
+  "background": "bck241",
   "sexuality": "female",
-  "flavor": "almond joy"
+  "flavor": "green tea"
       }
     },
     "version": "1.0"
