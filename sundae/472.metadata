@@ -2,21 +2,21 @@
   "721": {
     "6be221e45858b912b1efb4d79d6c239f24239ef73e99945e6cc33ada": {
       "thebigsundae372": {
-        "name": "thebigsundae372",
-        "image": "ipfs://QmZ8B84w1Aqy7xvFikxCQj576XJC8qzpPxh4Cw2hU7cGWQ",
+        "name": "thebigsundae472",
+        "image": "ipfs://QmaCrR97XZQ8iXRtq9FCiWdfTCm6z9rt4ZZaSC2XuAsuth",
         "mediaType": "image/png",
-        "description": "372",
+        "description": "472",
         "files": [
           {
-            "name": "372",
+            "name": "472",
             "mediaType": "image/png",
-            "src": "ipfs://QmZ8B84w1Aqy7xvFikxCQj576XJC8qzpPxh4Cw2hU7cGWQ"
+            "src": "ipfs://QmaCrR97XZQ8iXRtq9FCiWdfTCm6z9rt4ZZaSC2XuAsuth"
           }
         ],
         "sundae": "morozhenoye",
-  "background": "bgn372",
+  "background": "bgn472",
   "sexuality": "female",
-  "flavor": "mango"
+  "flavor": nutella"
       }
     },
     "version": "1.0"
