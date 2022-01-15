@@ -1,0 +1,25 @@
+{
+  "721": {
+    "6be221e45858b912b1efb4d79d6c239f24239ef73e99945e6cc33ada": {
+      "thebigsundae118": {
+        "name": "thebigsundae118",
+        "image": "ipfs://Qmefod7VAM3aqj51WTt6KTLzmYhSpu8ve9653yDwdA2cKe",
+        "mediaType": "image/png",
+        "description": "118",
+        "files": [
+          {
+            "name": "118",
+            "mediaType": "image/png",
+            "src": "ipfs://Qmefod7VAM3aqj51WTt6KTLzmYhSpu8ve9653yDwdA2cKe"
+          }
+        ],
+        "sundae": "morozhenoye",
+  "background": "bc118",
+  "sexuality": "bi",
+  "flavor": "cherry"
+      }
+    },
+    "version": "1.0"
+  }
+}  
+ 
