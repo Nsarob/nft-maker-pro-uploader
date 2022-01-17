@@ -1,20 +1,20 @@
 {
   "721": {
     "6be221e45858b912b1efb4d79d6c239f24239ef73e99945e6cc33ada": {
-      "thebigsundae452": {
-        "name": "thebigsundae452",
-        "image": "ipfs://QmcjumAfVK47bmsXgR8kJmwFgyu7EpovmDsPSqZeCWxS2p",
+      "thebigsundae552": {
+        "name": "thebigsundae's552.png",
+        "image": "ipfs://QmUK71hv7cr2HeNrxvEQaKuoMjMREMnDHRbGbW48myz53D",
         "mediaType": "image/png",
         "description": "452",
         "files": [
           {
-            "name": "452",
+            "name": "thebigsundae's552.png",
             "mediaType": "image/png",
-            "src": "ipfs://QmcjumAfVK47bmsXgR8kJmwFgyu7EpovmDsPSqZeCWxS2p"
+            "src": "ipfs://QmUK71hv7cr2HeNrxvEQaKuoMjMREMnDHRbGbW48myz53D"
           }
         ],
         "sundae": "dark chocolate",
-  "background": "cb452",
+  "background": "cb552",
   "sexuality": "female",
   "flavor": "sprinkles"
       }
@@ -22,5 +22,3 @@
     "version": "1.0"
   }
 }
-
-
