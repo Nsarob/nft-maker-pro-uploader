@@ -6,18 +6,20 @@
         "image": "ipfs://QmWq3R7VSeRJSimUAzXxnVrtUVZDrb46YueR3Yc79xXgni",
         "mediaType": "image/png",
         "description": "442",
+        "files": [
           {
             "name": "442",
             "mediaType": "image/png",
             "src": "ipfs://QmWq3R7VSeRJSimUAzXxnVrtUVZDrb46YueR3Yc79xXgni"
           }
         ],
-        "sundae": "Red Bean Blizzard",
-  "background": "bc442",
+        "sundae": "Hot Fudge Sundae",
+  "background": "bg442",
   "sexuality": "female",
-  "flavor": "bacon crumbles"
+  "flavor": "Espresso"
       }
     },
     "version": "1.0"
   }
 }
+
