@@ -2,19 +2,19 @@
   "721": {
     "6be221e45858b912b1efb4d79d6c239f24239ef73e99945e6cc33ada": {
       "thebigsundae205": {
-        "name": "thebigsundae205",
-        "image": "ipfs://QmYV7JCQh74SU8wRgmj2fe3DR6thr2Di6RDVgWmdde1TxK",
+        "name": "thebigsundae305",
+        "image": "ipfs://Qmce9SdwsqhrqkLqPzJeTWdeF1rzLyQ8fPHaA7ssUEcGxG",
         "mediaType": "image/png",
-        "description": "205",
+        "description": "305",
         "files": [
           {
-            "name": "205",
+            "name": "305",
             "mediaType": "image/png",
-            "src": "ipfs://QmYV7JCQh74SU8wRgmj2fe3DR6thr2Di6RDVgWmdde1TxK"
+            "src": "ipfs://Qmce9SdwsqhrqkLqPzJeTWdeF1rzLyQ8fPHaA7ssUEcGxG"
           }
         ],
-        "sundae": "HEATH",
-  "background": "mix205",
+        "sundae": "Vanilla Shake",
+  "background": "mi305",
   "sexuality": "bi",
   "flavor": "peanuts"
       }
@@ -22,3 +22,4 @@
     "version": "1.0"
   }
 }
+
