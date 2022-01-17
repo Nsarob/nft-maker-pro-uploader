@@ -1,20 +1,20 @@
 {
   "721": {
     "6be221e45858b912b1efb4d79d6c239f24239ef73e99945e6cc33ada": {
-      "thebigsundae404": {
-        "name": "thebigsundae404",
-        "image": "ipfs://QmV771EX5YqnVvZxrSiR4uyZB2rhjnSuRDZsyug2RxTweg",
+      "thebigsundae504": {
+        "name": "thebigsundae's504",
+        "image": "ipfs://QmahgjW6bqW7kiB8xJjLoHWwn6xzSgQVkhcKxBkJdwYxvx",
         "mediaType": "image/png",
-        "description": "404",
+        "description": "504",
         "files": [
           {
-            "name": "404",
+            "name": "thebigsundae's504",
             "mediaType": "image/png",
-            "src": "ipfs://QmV771EX5YqnVvZxrSiR4uyZB2rhjnSuRDZsyug2RxTweg"
+            "src": "ipfs://QmahgjW6bqW7kiB8xJjLoHWwn6xzSgQVkhcKxBkJdwYxvx"
           }
         ],
         "sundae": "Berry Salty Sundae",
-  "background": "background404",
+  "background": "color504",
   "sexuality": "female",
   "flavor": "pineapple"
       }
