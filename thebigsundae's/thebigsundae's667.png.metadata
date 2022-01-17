@@ -1,20 +1,20 @@
 {
   "721": {
     "6be221e45858b912b1efb4d79d6c239f24239ef73e99945e6cc33ada": {
-      "thebigsundae567": {
-        "name": "thebigsundae's567.png",
-        "image": "ipfs://QmfQpPveWCoSwUeh593TgfEcSHwX6ECkWyuXTTdcgpJ5p7",
+      "thebigsundae667": {
+        "name": "thebigsundae's667.png",
+        "image": "ipfs://QmaJhQ4tE7i5eJJ7shtXYVNR9fBYwAGZBcWLD1uzNuwZqZ",
         "mediaType": "image/png",
-        "description": "567",
+        "description": "667",
         "files": [
           {
-            "name": "thebigsundae's567.png",
+            "name": "thebigsundae's667.png",
             "mediaType": "image/png",
-            "src": "ipfs://QmfQpPveWCoSwUeh593TgfEcSHwX6ECkWyuXTTdcgpJ5p7"
+            "src": "ipfs://QmaJhQ4tE7i5eJJ7shtXYVNR9fBYwAGZBcWLD1uzNuwZqZ"
           }
         ],
         "sundae": "talenti gelato",
-  "background": "bc567",
+  "background": "bc667",
   "sexuality": "female",
   "flavor": "whipped cream"
       }
@@ -22,4 +22,3 @@
     "version": "1.0"
   }
 }
-
