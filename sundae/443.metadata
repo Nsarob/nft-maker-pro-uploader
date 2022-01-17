@@ -5,19 +5,21 @@
         "name": "thebigsundae443",
         "image": "ipfs://QmUWGGMaUnhbdE71Vcda93ss2PvmfT7KJScS4rWVHwJHaT",
         "mediaType": "image/png",
-        "description": "443"
+        "description": "443",
+        "files": [
           {
             "name": "443",
             "mediaType": "image/png",
             "src": "ipfs://QmUWGGMaUnhbdE71Vcda93ss2PvmfT7KJScS4rWVHwJHaT"
           }
         ],
-        "sundae": "HOT FUDGE SUNDAE",
+        "sundae": "Sundae Brunch",
   "background": "bc443",
   "sexuality": "female",
-  "flavor": "caramel"
+  "flavor": "Butterfinger candy"
       }
     },
     "version": "1.0"
   }
 }
+
