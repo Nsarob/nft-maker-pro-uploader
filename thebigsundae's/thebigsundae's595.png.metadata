@@ -1,20 +1,20 @@
 {
   "721": {
     "6be221e45858b912b1efb4d79d6c239f24239ef73e99945e6cc33ada": {
-      "thebigsundae495": {
-        "name": "thebigsundae495",
-        "image": "ipfs://QmTQbUeXXVMsXAVzMJ6Gx6kzV74f6bhz2uu3oSNgW4PiT9",
+      "thebigsundae595": {
+        "name": "thebigsundae's595.png",
+        "image": "ipfs://QmauR6cqMSRBzvpk24uh41MiYSmshKkXmWAfx2idT7jsr3",
         "mediaType": "image/png",
-        "description": "495",
+        "description": "595",
         "files": [
           {
-            "name": "495",
+            "name": "thebigsundae's595.png",
             "mediaType": "image/png",
-            "src": "ipfs://QmTQbUeXXVMsXAVzMJ6Gx6kzV74f6bhz2uu3oSNgW4PiT9"
+            "src": "ipfs://QmauR6cqMSRBzvpk24uh41MiYSmshKkXmWAfx2idT7jsr3"
           }
         ],
         "sundae": "pitango gelato",
-  "background": "bcg495",
+  "background": "bcg595",
   "sexuality": "female",
   "flavor": "nutella"
       }
@@ -22,4 +22,3 @@
     "version": "1.0"
   }
 }
-
