@@ -1,20 +1,20 @@
 {
   "721": {
     "6be221e45858b912b1efb4d79d6c239f24239ef73e99945e6cc33ada": {
-      "thebigsundae499": {
-        "name": "thebigsundae499",
-        "image": "ipfs://QmPeJiRkY9Ec1p8AHdmxxwcr9YMBhMtDoqMtzxjdnMufnu",
+      "thebigsundae599": {
+        "name": "thebigsundae's599.png",
+        "image": "ipfs://Qmbo76D4DFi4NaBb9x6aRDaWErrg2Me4epfnACw9ABfEtU",
         "mediaType": "image/png",
-        "description": "499",
+        "description": "599",
         "files": [
           {
-            "name": "499",
+            "name": "thebigsundae's599.png",
             "mediaType": "image/png",
-            "src": "ipfs://QmPeJiRkY9Ec1p8AHdmxxwcr9YMBhMtDoqMtzxjdnMufnu"
+            "src": "ipfs://Qmbo76D4DFi4NaBb9x6aRDaWErrg2Me4epfnACw9ABfEtU"
           }
         ],
         "sundae": "Edy's",
-  "background": "bc499",
+  "background": "bc599",
   "sexuality": "female",
   "flavor": "bourbon"
       }
@@ -22,4 +22,3 @@
     "version": "1.0"
   }
 }
-
