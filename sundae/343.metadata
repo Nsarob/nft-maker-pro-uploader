@@ -2,19 +2,19 @@
   "721": {
     "6be221e45858b912b1efb4d79d6c239f24239ef73e99945e6cc33ada": {
       "thebigsundae243": {
-        "name": "thebigsundae243",
-        "image": "ipfs://QmayzmyDyfW9jjVqtBv8X66wRVrYGccypmucACDaRj6hwH",
+        "name": "thebigsundae343",
+        "image": "ipfs://QmdMPCkJWPm18ocRxLRpaXFyXEwhcB9zCVErWC3vf652Wf",
         "mediaType": "image/png",
-        "description": "243",
+        "description": "343",
         "files": [
           {
-            "name": "243",
+            "name": "343",
             "mediaType": "image/png",
-            "src": "ipfs://QmayzmyDyfW9jjVqtBv8X66wRVrYGccypmucACDaRj6hwH"
+            "src": "ipfs://QmdMPCkJWPm18ocRxLRpaXFyXEwhcB9zCVErWC3vf652Wf"
           }
         ],
-        "sundae": "Caramel Almond ",
-  "background": "bc243",
+        "sundae": "HOT FUDGE SUNDAE",
+  "background": "bc343",
   "sexuality": "female",
   "flavor": "caramel"
       }
