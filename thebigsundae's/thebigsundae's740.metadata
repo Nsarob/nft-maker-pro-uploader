@@ -1,20 +1,20 @@
 {
   "721": {
     "6be221e45858b912b1efb4d79d6c239f24239ef73e99945e6cc33ada": {
-      "thebigsundae640": {
-        "name": "thebigsundae's640",
-        "image": "ipfs://QmeyBPNZR5beso2xph7ukrPCijYcbtqXyruJ49aXaGAGr3",
+      "thebigsundae740": {
+        "name": "thebigsundae's740",
+        "image": "ipfs://Qma6rhCHfgitPpHq9GmZBsYvpaEVn5AbNV2D5xgkfzSBsV",
         "mediaType": "image/png",
-        "description": "640",
+        "description": "740",
         "files": [
           {
-            "name": "thebigsundae's640",
+            "name": "thebigsundae's740",
             "mediaType": "image/png",
-            "src": "ipfs://QmeyBPNZR5beso2xph7ukrPCijYcbtqXyruJ49aXaGAGr3"
+            "src": "ipfs://Qma6rhCHfgitPpHq9GmZBsYvpaEVn5AbNV2D5xgkfzSBsV"
           }
         ],
         "sundae": "Chocolate Coconut Chili Mango Sundae",
-  "background": "bc640",
+  "background": "bc740",
   "sexuality": "female",
   "flavor": "mango"
       }
