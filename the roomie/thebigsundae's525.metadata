@@ -1,0 +1,24 @@
+{
+  "721": {
+    "6be221e45858b912b1efb4d79d6c239f24239ef73e99945e6cc33ada": {
+      "thebigsundae525": {
+        "name": "thebigsundae's525",
+        "image": "ipfs://QmSTw3Qb2L1CZCWuNhqzHeaGrD2cbynZB8MUzN7yPF7amJ",
+        "mediaType": "image/png",
+        "description": "525",
+        "files": [
+          {
+            "name": "thebigsundae's525",
+            "mediaType": "image/png",
+            "src": "ipfs://QmSTw3Qb2L1CZCWuNhqzHeaGrD2cbynZB8MUzN7yPF7amJ"
+          }
+        ],
+        "sundae": "Hot Fudge Sundae",
+  "background": "bc525",
+  "sexuality": "female",
+  "flavor": "midnight fudge"
+      }
+    },
+    "version": "1.0"
+  }
+}
