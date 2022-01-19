@@ -1,20 +1,20 @@
 {
   "721": {
     "6be221e45858b912b1efb4d79d6c239f24239ef73e99945e6cc33ada": {
-      "thebigsundae570": {
-        "name": "thebigsundae's570.png",
-        "image": "ipfs://QmPrkxhAHCSpiMFSzSqnVA5yewdExWDX8dFuk1EtdxhtAz",
+      "thebigsundae970": {
+        "name": "thebigsundae's970.png",
+        "image": "ipfs://QmTeGzoFeFpEKJ1BTSPFiSzhnpFHyAj8wFrcaXGkobzubC",
         "mediaType": "image/png",
-        "description": "570",
+        "description": "970",
         "files": [
           {
-            "name": "thebigsundae's570.png",
+            "name": "thebigsundae's970.png",
             "mediaType": "image/png",
-            "src": "ipfs://QmPrkxhAHCSpiMFSzSqnVA5yewdExWDX8dFuk1EtdxhtAz"
+            "src": "ipfs://QmTeGzoFeFpEKJ1BTSPFiSzhnpFHyAj8wFrcaXGkobzubC"
           }
         ],
         "sundae": "morozhenoye",
-  "background": "bcg570",
+  "background": "bcg970",
   "sexuality": "bi",
   "flavor": "maraschino berries"
       }
