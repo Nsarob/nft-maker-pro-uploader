@@ -1,20 +1,20 @@
 {
   "721": {
     "6be221e45858b912b1efb4d79d6c239f24239ef73e99945e6cc33ada": {
-      "thebigsundae550": {
-        "name": "thebigsundae's550",
-        "image": "ipfs://QmXEy9HGxkyvwv12ma9Urs82JKVmGdj3xRW9hsexmtFevk",
+      "thebigsundae950": {
+        "name": "thebigsundae's950",
+        "image": "ipfs://Qmdq3rnzESXbdtNcUQAkxfe7zPkRorB8hjGR2W39s9cZKh",
         "mediaType": "image/png",
-        "description": "550",
+        "description": "950",
         "files": [
           {
-            "name": "thebigsundae's550",
+            "name": "thebigsundae's950",
             "mediaType": "image/png",
-            "src": "ipfs://QmXEy9HGxkyvwv12ma9Urs82JKVmGdj3xRW9hsexmtFevk"
+            "src": "ipfs://Qmdq3rnzESXbdtNcUQAkxfe7zPkRorB8hjGR2W39s9cZKh"
           }
         ],
         "sundae": "Balsamic Sundae",
-  "background": "bck550",
+  "background": "bck950",
   "sexuality": "female",
   "flavor": "chocolate morsels"
       }
