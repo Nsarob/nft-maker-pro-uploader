@@ -1,20 +1,20 @@
 {
   "721": {
     "6be221e45858b912b1efb4d79d6c239f24239ef73e99945e6cc33ada": {
-      "thebigsundae600": {
-        "name": "thebigsundae's600.png",
-        "image": "ipfs://QmX179ugJUwMxSA2eUe6JvBpDYUuNXxoHbWJ9iqJPdGqyL",
+      "thebigsundae1000": {
+        "name": "thebigsundae's1000.png",
+        "image": "ipfs://Qmd9dD2sZYeUY8Pbr6J4tkms19chDHjn71ucn5x29maBmt",
         "mediaType": "image/png",
-        "description": "600",
+        "description": "1000",
         "files": [
           {
-            "name": "thebigsundae's600.png",
+            "name": "thebigsundae's1000.png",
             "mediaType": "image/png",
-            "src": "ipfs://QmX179ugJUwMxSA2eUe6JvBpDYUuNXxoHbWJ9iqJPdGqyL"
+            "src": "ipfs://Qmd9dD2sZYeUY8Pbr6J4tkms19chDHjn71ucn5x29maBmt"
           }
         ],
         "sundae": "Tastee ice",
-  "background": "bnd600",
+  "background": "bnd1000",
   "sexuality": "female",
   "flavor": "turtle candy"
       }
