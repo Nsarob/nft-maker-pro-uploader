@@ -1,20 +1,20 @@
 {
   "721": {
     "6be221e45858b912b1efb4d79d6c239f24239ef73e99945e6cc33ada": {
-      "thebigsundae560": {
-        "name": "thebigsundae's560.png",
-        "image": "ipfs://QmXwMF6D4sTUdDwCUsRAQCfUGTpSnCMnGzxmLVZkp1DLkJ",
+      "thebigsundae960": {
+        "name": "thebigsundae's960.png",
+        "image": "ipfs://QmVgk71Lm1kNtSgQir6Lu2gNDwKZgqtiKD4hwp6bLHnts2",
         "mediaType": "image/png",
-        "description": "560",
+        "description": "960",
         "files": [
           {
-            "name": "thebigsundae's560.png",
+            "name": "thebigsundae's960.png",
             "mediaType": "image/png",
-            "src": "ipfs://QmXwMF6D4sTUdDwCUsRAQCfUGTpSnCMnGzxmLVZkp1DLkJ"
+            "src": "ipfs://QmVgk71Lm1kNtSgQir6Lu2gNDwKZgqtiKD4hwp6bLHnts2"
           }
         ],
         "sundae": "humble pie",
-  "background": "bc560",
+  "background": "bc960",
   "sexuality": "female",
   "flavor": "whipped cream"
       }
