@@ -1,21 +1,22 @@
 {
   "721": {
     "6be221e45858b912b1efb4d79d6c239f24239ef73e99945e6cc33ada": {
-      "thebigsundae743": {
-        "name": "thebigsundae's743",
+      "thebigsundaethebigsundaes743png": {
+        "name": "thebigsundae's743.png",
         "image": "ipfs://QmTUQDsAPWWiSqXHny37ywcqcBNHrxdY95SrUVJMqYKYBT",
         "mediaType": "image/png",
-        "description": "743"
+        "description": "thebigsundae's743.png",
+        "files": [
           {
-            "name": "thebigsundae's743",
+            "name": "thebigsundae's743.png",
             "mediaType": "image/png",
             "src": "ipfs://QmTUQDsAPWWiSqXHny37ywcqcBNHrxdY95SrUVJMqYKYBT"
           }
         ],
         "sundae": "HOT FUDGE SUNDAE",
-  "background": "b743",
-  "sexuality": "female",
-  "flavor": "caramel"
+        "background": "bck743",
+        "sexuality": "female",
+        "flavor": "caramel"
       }
     },
     "version": "1.0"
