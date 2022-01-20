@@ -1,21 +1,22 @@
 {
   "721": {
     "6be221e45858b912b1efb4d79d6c239f24239ef73e99945e6cc33ada": {
-      "thebigsundae742": {
-        "name": "thebigsundae's742",
+      "thebigsundaethebigsundaes742png": {
+        "name": "thebigsundae's742.png",
         "image": "ipfs://QmXXPqPyDjKSaEiMMk239GspYTiiZ9uBrsNS62aVJnqrXP",
         "mediaType": "image/png",
-        "description": "742",
+        "description": "thebigsundae's742.png",
+        "files": [
           {
-            "name": "thebigsundae's742",
+            "name": "thebigsundae's742.png",
             "mediaType": "image/png",
             "src": "ipfs://QmXXPqPyDjKSaEiMMk239GspYTiiZ9uBrsNS62aVJnqrXP"
           }
         ],
         "sundae": "Red Bean Blizzard",
-  "background": "bc742",
-  "sexuality": "female",
-  "flavor": "bacon crumbles"
+        "background": "bc742",
+        "sexuality": "female",
+        "flavor": "bacon crumbles"
       }
     },
     "version": "1.0"
