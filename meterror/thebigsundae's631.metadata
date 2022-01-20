@@ -1,11 +1,12 @@
 {
   "721": {
     "6be221e45858b912b1efb4d79d6c239f24239ef73e99945e6cc33ada": {
-      "thebigsundae631": {
+      "thebigsundaethebigsundaes631": {
         "name": "thebigsundae's631",
         "image": "ipfs://QmTYnU96A5V3FfpRjvybFoE6rLrDe8Kav5Aq3gDPE5zZZT",
         "mediaType": "image/png",
-        "description": "631"
+        "description": "thebigsundae's631",
+        "files": [
           {
             "name": "thebigsundae's631",
             "mediaType": "image/png",
@@ -13,9 +14,9 @@
           }
         ],
         "sundae": "Trail Mix Summer Camp Sundae",
-  "background": "bc631",
-  "sexuality": "female",
-  "flavor": "candies"
+        "background": "b631",
+        "sexuality": "female",
+        "flavor": "candies"
       }
     },
     "version": "1.0"
