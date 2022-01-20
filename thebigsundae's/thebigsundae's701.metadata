@@ -1,11 +1,11 @@
 {
   "721": {
     "6be221e45858b912b1efb4d79d6c239f24239ef73e99945e6cc33ada": {
-      "thebigsundae701": {
+      "thebigsundaethebigsundaes701png": {
         "name": "thebigsundae's701.png",
         "image": "ipfs://QmaHYvnooq8DU1tMY4yuhtjmNZU8KhGGj95tKC14AuzVBb",
         "mediaType": "image/png",
-        "description": "701",
+        "description": "thebigsundae's701.png",
         "files": [
           {
             "name": "thebigsundae's701.png",
@@ -14,9 +14,9 @@
           }
         ],
         "sundae": "Tastee ice",
-  "background": "bnd701",
-  "sexuality": "female",
-  "flavor": "turtle candy"
+        "background": "bnd701",
+        "sexuality": "female",
+        "flavor": "turtle candy"
       }
     },
     "version": "1.0"
